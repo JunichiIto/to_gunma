@@ -7,9 +7,9 @@ Gem::Specification.new do |gem|
   gem.name          = "to_gunma"
   gem.version       = ToGunma::VERSION
   gem.authors       = ["Junichi Ito"]
-  gem.email         = ["jit@sonicgarden.jp"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["me@jnito.com"]
+  gem.description   = %q{For test.}
+  gem.summary       = %q{For test.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
