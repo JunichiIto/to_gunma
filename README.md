@@ -1,6 +1,8 @@
 # ToGunma
 
-TODO: Write a gem description
+A Gem for learning.
+
+See also: http://soplana.hateblo.jp/entry/2012/06/01/234259
 
 ## Installation
 
@@ -18,7 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+````
+$ pry
+> require 'to_gunma'
+=> true
+> ''.to_gunma
+=> "String is Gunma now."
+> :hoge.to_gunma
+=> "Symbol is Gunma now."
+````
 
 ## Contributing
 
